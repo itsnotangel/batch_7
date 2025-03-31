@@ -7,4 +7,4 @@ char_to_find = input("Enter the character to find: ")
 # Manually find the last occurrence index
 
 # Print the result
-print (statement)
+print(statement)
