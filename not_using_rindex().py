@@ -2,4 +2,4 @@
 
 # Get user input
 # Manually find the last occurrence index
-# Print the result
+# Print the result after
